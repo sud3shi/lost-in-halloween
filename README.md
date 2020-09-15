@@ -1,2 +1,2 @@
-# lost-in-halloween
+# Lost In Halloween
 An upcoming Horror-Thriller retro game 
